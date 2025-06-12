@@ -1,0 +1,19 @@
+gitignore
+CopyEdit
+# Node modules and environment files
+node_modules/
+.env
+.env.local
+.env.production.local
+
+# Build outputs
+build/
+dist/
+
+# Logs
+*.log
+
+# System & IDE files
+.DS_Store
+.vscode/
+
